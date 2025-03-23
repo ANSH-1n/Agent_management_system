@@ -1,6 +1,0 @@
-2025/03/23-11:43:11.704 b10 Reusing MANIFEST C:\coding\assignments\mern-agent-manager\server\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/03/23-11:43:11.705 b10 Recovering log #3
-2025/03/23-11:43:11.705 b10 Reusing old log C:\coding\assignments\mern-agent-manager\server\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
-2025/03/23-11:45:15.180 b10 Level-0 table #5: started
-2025/03/23-11:45:15.186 b10 Level-0 table #5: 18851 bytes OK
-2025/03/23-11:45:15.188 b10 Delete type=0 #3
