@@ -188,3 +188,23 @@ The MERN Agent Manager now includes an additional feature that allows admins to 
 ![Agent Image](https://raw.githubusercontent.com/ANSH-1n/Agent_management_system/main/public/agent2.jpg)
 ![Agent Image](https://raw.githubusercontent.com/ANSH-1n/Agent_management_system/main/public/agent3.jpg)
 ![Agent Image](https://raw.githubusercontent.com/ANSH-1n/Agent_management_system/main/public/agent4.jpg)
+
+
+
+
+
+
+//----------------------
+
+the user bydefault saved in db as  a  admin   if  you want to  save  them as a  agent then manualy change  in the db otherwise change the logic in the 
+contollers/auth.controller.js
+
+
+
+  const user = await User.create({
+    name,
+    email,
+    password,
+    mobile: formattedMobile,
+    role: 'admin',
+  });
