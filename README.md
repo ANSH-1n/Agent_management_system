@@ -167,3 +167,30 @@ File Handling: Multer, CSV-Parser, XLSX
 WhatsApp Integration: whatsapp-web.js
 
 Development: Nodemon, Concurrently
+
+
+
+
+App.jsx
+axios.defaults.baseURL = 'http://localhost:5000';
+
+
+Extra Feature:
+The MERN Agent Manager now includes an additional feature that allows admins to send uploaded CSV or Excel files directly to agents via WhatsApp from within the platform. This integration, powered by whatsapp-web.js, eliminates the need for manually opening WhatsApp, enabling seamless communication between the admin and agents.
+
+
+
+
+
+## Agent Image
+![Agent Image](public/agent1.jpg)
+![Agent Image](public/agent2.jpg)
+![Agent Image](public/agent3.jpg)
+![Agent Image](public/agent4.jpg)
+
+
+
+![Agent Image](https://raw.githubusercontent.com/ANSH-1n/Agent_management_system/main/public/agent1.jpg)
+![Agent Image](https://raw.githubusercontent.com/ANSH-1n/Agent_management_system/main/public/agent2.jpg)
+![Agent Image](https://raw.githubusercontent.com/ANSH-1n/Agent_management_system/main/public/agent3.jpg)
+![Agent Image](https://raw.githubusercontent.com/ANSH-1n/Agent_management_system/main/public/agent4.jpg)
