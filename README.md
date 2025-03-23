@@ -4,6 +4,8 @@
 
 A web application for managing agents and distributing lists using the MERN stack (MongoDB, Express, React, Node.js). This application allows admins to manage agents, upload and distribute CSV or Excel files, and send data directly via WhatsApp to specific agents from the platform without manually opening WhatsApp. The integration is powered by `whatsapp-web.js`.
 
+It is fully responsive application 
+
 ## Features
 
 - **Admin Authentication with JWT**: Secure login for admins using JSON Web Tokens (JWT).
